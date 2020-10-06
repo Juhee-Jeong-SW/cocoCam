@@ -24,3 +24,22 @@
 
 - 어플리케이션 : 어플리케이션 서비스를 통해 모바일 디바이스 프로젝트를 완수
 
+## 기대 효과
+- 현 트렌드에 적합한 보급형 디바이스의 경쟁력 향상에 도움
+
+- 하드웨어적 한계를 소프트웨어적으로 극복
+
+- 최신 기술 활용을 통한 4차 산업 혁명에 부응하는 인재 양성
+
+- 본 기능의 분야 확장
+
+- 단순 이미지 처리를 뛰어 넘어 심화된 전문적 기술에 접목
+
+## 완성 사진
+<img width="478" alt="그림1" src="https://user-images.githubusercontent.com/70262329/95270748-31871980-0877-11eb-8cdc-9146982585e4.png">
+
+<img width="267" alt="그림2" src="https://user-images.githubusercontent.com/70262329/95270757-35b33700-0877-11eb-9afb-d00133708210.png">
+
+<img width="563" alt="그림3" src="https://user-images.githubusercontent.com/70262329/95270755-34820a00-0877-11eb-8811-9e3cb86230c8.png">
+
+<img width="377" alt="그림4" src="https://user-images.githubusercontent.com/70262329/95270760-364bcd80-0877-11eb-99f8-18fad15cc3d1.png">
